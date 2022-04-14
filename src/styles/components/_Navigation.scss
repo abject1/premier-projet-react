@@ -1,7 +1,11 @@
 .navigation {
     background-color: var(--white);
     padding: 0.1rem;
-    position: fixed;
+    position: sticky;
+    top: 0;
+    left: 0;
+    align-items: center;
+    justify-content: space-around;
     li{
         display: block;
         margin: auto 0.3rem;
