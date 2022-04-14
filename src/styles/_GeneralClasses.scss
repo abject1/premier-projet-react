@@ -1,0 +1,24 @@
+/* CLASSES GENERAL */
+
+// CLASSE PRINCIPAL DE FLEX
+
+.flexContainer {
+    display: flex;
+}
+
+// NAV Active
+
+.nav-active {
+    color: var(--lightBlue);
+}
+
+// UNDERLINE
+
+.underline1 {
+    height: 3px;
+    width: 80vw;
+    display: block;
+    margin: 1rem auto;
+    background-color: var(--black);
+    border-radius: 8px;
+}
