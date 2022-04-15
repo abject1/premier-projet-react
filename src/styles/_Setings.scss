@@ -76,5 +76,7 @@ ol {
     border: var(--borderClassicBlac);
     border-radius: 5px;
     color: black;
-    background-color: #DCDCDC;
+    background-color: var(--white);
+    display: block;
+    margin: auto;
 }
